@@ -1563,6 +1563,10 @@ a {
 .cid-sunnEsHtfI {
   background-image: url("../../../assets/images/pattern4-1-2000x1271.png");
 }
+.cid-sunnEsHtfI .mbr-text,
+.cid-sunnEsHtfI .mbr-section-btn {
+  text-align: right;
+}
 .cid-sunnEXEdA4 {
   padding-top: 5rem;
   padding-bottom: 0rem;
